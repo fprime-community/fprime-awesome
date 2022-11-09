@@ -35,6 +35,7 @@ These contributions are supplied as-is from the community working with F´. They
 * [Arduino OSAL](https://github.com/fprime-community/fprime-arduino) - An implementation allowing fprime to be run on a limited number of Arduino compatible devices.
 * [FreeRTOS OSAL](https://github.com/fprime-community/fprime-freertos) - Cmake and implementation files for FreeRTOS. [Apache2]
 * [VxWorks OSAL](https://github.com/fprime-community/fprime-vxworks) [Apache2]
+* [Azure ThreadX OSAL](https://github.com/fprime-community/fprime-azure-threadx/tree/fprime-azure-threadx-cmjl-14-01-2022-v00) - Build configuration and OS adaptation layers for Microsoft RTOS Azure ThreadX + FileX [Apache2]
 
 ## Projects
 
