@@ -39,4 +39,5 @@ These contributions are supplied as-is from the community working with F´. They
 ## Projects
 
 * [Sphinx Reference Deployment](https://github.com/fprime-community/fprime-sphinx) [Apache2]
+* [fprime-fft-benchmark](https://github.com/ThibFrgsGmz/fprime-fft-benchmark) - Benchmark of the Fast Fourier Transform (FFT) with F´ [MIT]
 
