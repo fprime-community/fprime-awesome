@@ -5,6 +5,7 @@ A list of F prime components, libraries, and tutorials.
 These contributions are supplied as-is from the community working with F´. They may or may not have been flown on flight projects, vigorously tested, or include unit-tests. However, they may also prove useful to others. Use is As-Is.
 
 - [Resources](#resources)
+- [Missions](#missions)
 - [fprime-awesome](#fprime-awesome)
     - [GDS](#gds)
     - [Hardware Drivers](#hardware-drivers)
@@ -18,6 +19,9 @@ These contributions are supplied as-is from the community working with F´. They
 * [F´ User's Guide](https://nasa.github.io/fprime/UsersGuide/guide.html)
 * [F´ Tutorials](https://nasa.github.io/fprime/Tutorials/README.html)
 * [FPP User's Guide](https://fprime-community.github.io/fpp/fpp-users-guide.html)
+
+## Missions
+See [here](https://nasa.github.io/fprime/projects.html) for a list of missions using F prime.
 
 ## GDS
 
